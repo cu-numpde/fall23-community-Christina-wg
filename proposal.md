@@ -10,17 +10,17 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-10-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
+| Repository URL |  https://github.com/clawpack/pyclaw  |
+| Main/documentation website |   http://clawpack.org/pyclaw/  |
+| Year project was started | 2010  |
+| Number of contributors in the past year | 6 |
+| Number of contributors in the lifetime of the project | 34  |
+| Number of distinct affiliations | 1 |
+| Where do development discussions take place? | Github, Gitter (https://app.gitter.im/#/room/#clawpack_public:gitter.im), Twitter (https://twitter.com/i/flow/login?redirect_after_login=%2Fclawpack), google group (https://groups.google.com/g/claw-dev?pli=1).  |
+| Typical number of emails/comments per week? |  |
+| Typical number of commits per week? | 0 to 1 |
+| Typical commit size | 107 files changed |
+| How does the project accept contributions? | pull requests, PyClaw issue tracker (https://github.com/clawpack/pyclaw/issues)   |
 | Does the project have an automated test suite? | yes/no |
 | Does the project use continuous integration? | yes/no |
 | Are any legal/licensing steps required to contribute? | no or explain below |
