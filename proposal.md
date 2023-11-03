@@ -30,7 +30,7 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [x] I have installed the software
+- [&check] I have installed the software
 - [x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
