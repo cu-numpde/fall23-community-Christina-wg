@@ -3,7 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: *PyClaw*
 
-PyClaw is a Python-based solver for hyperbolic PDEs. Solvers written in Fortran code is also available, but this project will solve problems in Python without explicitly using any Fortran code. A Riemann solver that can solve advection, Burger's equation, Euler equations, shallow water equations, and etc., is available with examples and source code.
+PyClaw is a Python-based solver for hyperbolic PDEs. Solvers written in Fortran code is also available, but this project will solve problems in Python without explicitly using any Fortran code. A Riemann solver that can solve acoustics, advection, Burger's equation, Euler equations, shallow water equations, and etc., is available with examples and source code.
 
 ### Stats
 
