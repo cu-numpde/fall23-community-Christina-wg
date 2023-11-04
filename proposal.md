@@ -20,9 +20,9 @@ PyClaw is a Python-based solver for hyperbolic PDEs. Solvers written in Fortran 
 | Typical number of commits per week? | 0 to 1 |
 | Typical commit size | 107 files changed |
 | How does the project accept contributions? | pull requests, [PyClaw issue tracker](https://github.com/clawpack/pyclaw/issues)   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
